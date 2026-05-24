@@ -1,0 +1,47 @@
+cybersecurity-coord-app/
+│
+├── README.md
+│
+├── linux/
+│   ├── installation/
+│   │   ├── commands.txt
+│   │   ├── outputs.txt
+│   │   └── screenshots/
+│   │
+│   ├── ssh/
+│   │   ├── ssh-keygen.txt
+│   │   ├── ssh-config.txt
+│   │   └── screenshots/
+│   │
+│   └── docker/
+│       ├── commands.txt
+│       └── screenshots/
+│
+├── reverse-engineering/
+│   ├── elf-analysis/
+│   │   ├── elf_dump.txt
+│   │   ├── analysis.md
+│   │   └── screenshots/
+│   │
+│   ├── disassembly/
+│   │   ├── sum.c
+│   │   ├── disassembly.txt
+│   │   ├── explanation.md
+│   │   └── screenshots/
+│   │
+│   └── assembly/
+│       ├── notes.md
+│       └── screenshots/
+│
+├── binary-exploitation/
+│   ├── stack/
+│   ├── heap/
+│   └── screenshots/
+│
+├── web/
+│
+├── crypto/
+│
+├── stego/
+│
+└── misc/
